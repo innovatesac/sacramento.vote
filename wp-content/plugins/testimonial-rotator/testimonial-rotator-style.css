@@ -43,7 +43,7 @@
 
 .testimonial_rotator.rounded .img img { border-radius: 50%; }
 
-.testimonial_rotator .more-link,
+.testimonial_rotator .more-link, 
 .testimonial-rotator-view-more { white-space: nowrap; }
 
 .testimonial_rotator_paged a { padding: 4px 10px; text-decoration: none; }
